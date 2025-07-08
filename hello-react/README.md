@@ -1,3 +1,28 @@
+# Hello React App
+
+## How to Run This Project in VS Code
+
+1. Open **VS Code**.
+
+2. Open this project folder.  
+   - Go to **File > Open Folder**  
+   - Select the folder where this project is saved  
+   Or, use the terminal:  
+
+
+
+3. commend 'npm create vite@latest'        first create vite 
+           'cd project name'               give a name in your project 
+           'npm install'                   install package-lock.json for JS 
+           npm run dev'                    for run your project 
+
+
+
+
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
