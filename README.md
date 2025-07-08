@@ -20,15 +20,15 @@ By: Hafizur Rahman
 
 
 
-Folder Structure \
+Folder Structure 
 react-learning-with-Hafizur/
-├── 01-hello-world/         # Simple App.jsx showing Hello World
-├── 02-jsx-basics/          # JSX syntax practice
-├── 03-components/          # Functional components
-├── 04-props-state/         # Passing props, useState
-├── 05-events/              # Button click event
-├── 06-conditional-render/  # If-else, ternary
-├── 07-lists-keys/          # Mapping list of items
-├── 08-useeffect-fetch/     # API call with useEffect
-├── 09-routing/             # React Router practice
-└── README.md
+── 01-hello-world/         # Simple App.jsx showing Hello World
+── 02-jsx-basics/          # JSX syntax practice
+── 03-components/          # Functional components
+── 04-props-state/         # Passing props, useState
+── 05-events/              # Button click event
+── 06-conditional-render/  # If-else, ternary
+── 07-lists-keys/          # Mapping list of items
+── 08-useeffect-fetch/     # API call with useEffect
+── 09-routing/             # React Router practice
+── README.md
