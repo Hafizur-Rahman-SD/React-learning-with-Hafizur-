@@ -1,33 +1,22 @@
-# Hello React App
+# React Learning
 
-## How to Run This Project in VS Code
+This repository contains my practice projects and code snippets while learning React.
 
-1. Open **VS Code**.
+## Topics Covered
 
-2. Open this project folder.  
-   - Go to **File > Open Folder**  
-   - Select the folder where this project is saved  
-   Or, use the terminal:  
+- JSX and Components
+- Props and State
+- Event Handling
+- Conditional Rendering
+- Lists and Keys
+- useState & useEffect
+- Form Handling
+- Routing (React Router)
+- Fetching Data from API
+
+Each topic is inside a separate folder with its own code.
+
+By: Hafizur Rahman
 
 
 
-3. commend 'npm create vite@latest'        first create vite 
-           'cd project name'               give a name in your project 
-           'npm install'                   install package-lock.json for JS 
-           npm run dev'                    for run your project 
-
-
-
-
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
